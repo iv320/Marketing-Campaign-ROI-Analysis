@@ -1,0 +1,501 @@
+campaign_id,campaign_name,channel,spend,revenue,ROI,Performance_Category
+CMP-1000,Google Ads_Small_New_Sep,Google Ads,1061.81,4460.93,3.2012506945687087,Top Performer
+CMP-1001,Facebook_Large_New_Dec,Facebook,16239.78,192566.77,10.857720363206887,Top Performer
+CMP-1002,Google Ads_Small_Low-Value_Jul,Google Ads,530.88,763.64,0.4384418324291741,Average
+CMP-1003,Facebook_Large_Returning_Nov,Facebook,17336.18,124143.85,6.160969140837255,Top Performer
+CMP-1004,LinkedIn_Large_Returning_Dec,LinkedIn,34474.12,48950.78,0.4199283404478489,Average
+CMP-1005,Email_Large_Returning_Oct,Email,4140.7,1245688.36,299.8400415388703,Top Performer
+CMP-1006,Google Ads_Medium_Returning_Dec,Google Ads,6860.36,40744.57,4.939130016500592,Top Performer
+CMP-1007,Instagram_Medium_Returning_Aug,Instagram,8467.18,79254.86,8.360242725441054,Top Performer
+CMP-1008,Google Ads_Medium_Low-Value_Jul,Google Ads,2976.31,3748.06,0.2592975866089217,Average
+CMP-1009,LinkedIn_Large_High-Value_Jul,LinkedIn,36500.89,123165.62,2.3743182700476617,Top Performer
+CMP-1010,LinkedIn_Small_New_Oct,LinkedIn,1954.38,6477.61,2.314406614885539,Top Performer
+CMP-1011,Instagram_Small_High-Value_Nov,Instagram,1882.81,26837.94,13.254194528391071,Top Performer
+CMP-1012,Google Ads_Small_Returning_Sep,Google Ads,1083.02,3904.67,2.605353548410925,Top Performer
+CMP-1013,Google Ads_Medium_Low-Value_Sep,Google Ads,6341.57,12004.8,0.8930327978718203,Average
+CMP-1014,Facebook_Small_High-Value_Sep,Facebook,1658.37,33539.75,19.22452769888505,Top Performer
+CMP-1015,Google Ads_Large_Returning_Nov,Google Ads,39160.29,100386.66,1.563481016100749,Top Performer
+CMP-1016,Facebook_Medium_Low-Value_Oct,Facebook,8904.83,21087.89,1.3681406607425408,Top Performer
+CMP-1017,Facebook_Small_High-Value_Jul,Facebook,987.77,28929.02,28.28720248640878,Top Performer
+CMP-1018,Instagram_Small_Low-Value_Sep,Instagram,679.39,4312.9,5.348194704072771,Top Performer
+CMP-1019,LinkedIn_Large_High-Value_Aug,LinkedIn,29751.82,78438.71,1.6364340063901976,Top Performer
+CMP-1020,Email_Medium_Low-Value_Aug,Email,225.14,62481.31,276.5220307364307,Top Performer
+CMP-1021,Facebook_Medium_High-Value_Nov,Facebook,3994.34,61064.76,14.28782226850994,Top Performer
+CMP-1022,Email_Small_High-Value_Aug,Email,93.46,156316.74,1671.5523218489195,Top Performer
+CMP-1023,Email_Small_New_Jul,Email,180.72,127839.1,706.387671536078,Top Performer
+CMP-1024,Facebook_Small_Low-Value_Nov,Facebook,1711.16,4159.9,1.4310409312980663,Top Performer
+CMP-1025,Email_Medium_Low-Value_Nov,Email,541.69,118859.94,218.4242832616441,Top Performer
+CMP-1026,Google Ads_Large_New_Dec,Google Ads,26696.44,130294.75,3.8806039307113607,Top Performer
+CMP-1027,Instagram_Medium_New_Sep,Instagram,4585.62,83302.87,17.16610839973657,Top Performer
+CMP-1028,Email_Large_New_Sep,Email,4849.79,1891073.17,388.92887733283294,Top Performer
+CMP-1029,LinkedIn_Medium_New_Dec,LinkedIn,2295.1,3036.72,0.3231318896780096,Average
+CMP-1030,LinkedIn_Medium_Returning_Aug,LinkedIn,9266.13,20947.67,1.2606708518011296,Top Performer
+CMP-1031,LinkedIn_Medium_New_Dec,LinkedIn,3936.44,10194.2,1.5897003383768076,Top Performer
+CMP-1032,Google Ads_Medium_New_Oct,Google Ads,4942.27,15701.71,2.177023918159064,Top Performer
+CMP-1033,Google Ads_Small_Returning_Nov,Google Ads,1752.95,5999.91,2.422750221055934,Top Performer
+CMP-1034,Email_Small_New_Nov,Email,151.63,75123.34,494.4385016157752,Top Performer
+CMP-1035,Email_Large_Returning_Sep,Email,1697.47,783768.25,460.7273059317691,Top Performer
+CMP-1036,Email_Large_Returning_Nov,Email,2364.27,1223848.35,516.6432260274842,Top Performer
+CMP-1037,Instagram_Large_Low-Value_Dec,Instagram,36399.36,138730.84,2.811353826001336,Top Performer
+CMP-1038,Email_Small_Low-Value_Jul,Email,63.97,16382.8,255.10129748319525,Top Performer
+CMP-1039,Google Ads_Large_High-Value_Jul,Google Ads,23968.38,447994.67,17.691070068148118,Top Performer
+CMP-1040,Facebook_Small_Returning_Jul,Facebook,1463.05,13498.43,8.226226034653635,Top Performer
+CMP-1041,Facebook_Medium_New_Jul,Facebook,2073.58,9779.96,3.716461385622932,Top Performer
+CMP-1042,LinkedIn_Large_Returning_Sep,LinkedIn,31949.35,78670.43,1.4623483732845894,Top Performer
+CMP-1043,Facebook_Large_Returning_Nov,Facebook,19489.96,284686.14,13.606809865181868,Top Performer
+CMP-1044,Facebook_Small_Low-Value_Oct,Facebook,1486.42,3382.68,1.2757228777868972,Top Performer
+CMP-1045,Google Ads_Medium_Low-Value_Sep,Google Ads,3951.92,9694.61,1.4531392335877245,Top Performer
+CMP-1046,Email_Large_New_Dec,Email,4179.25,1793448.81,428.1317365556021,Top Performer
+CMP-1047,Google Ads_Small_Low-Value_Sep,Google Ads,1583.68,1493.49,-0.0569496362901596,Loss-Making
+CMP-1048,Facebook_Medium_Returning_Nov,Facebook,9523.67,64071.26,5.727580859059586,Top Performer
+CMP-1049,Email_Medium_Returning_Sep,Email,942.65,1045470.41,1108.0759136476954,Top Performer
+CMP-1050,Google Ads_Small_Low-Value_Nov,Google Ads,941.67,1128.82,0.1987426593180201,Average
+CMP-1051,LinkedIn_Small_New_Jul,LinkedIn,1335.2,2030.4,0.5206710605152787,Average
+CMP-1052,Email_Small_Low-Value_Nov,Email,142.25,40762.65,285.55641476274167,Top Performer
+CMP-1053,Google Ads_Small_Returning_Oct,Google Ads,1611.15,6745.53,3.1867796294572197,Top Performer
+CMP-1054,Instagram_Medium_Low-Value_Sep,Instagram,8474.89,53964.6,5.3675870719265975,Top Performer
+CMP-1055,Email_Medium_Returning_Aug,Email,601.21,599304.11,995.829909682141,Top Performer
+CMP-1056,Google Ads_Small_New_Sep,Google Ads,1835.01,7008.82,2.8194996212554697,Top Performer
+CMP-1057,LinkedIn_Large_Low-Value_Nov,LinkedIn,11437.69,7884.52,-0.3106545115316117,Loss-Making
+CMP-1058,Google Ads_Small_New_Aug,Google Ads,545.75,1379.53,1.5277691250572607,Top Performer
+CMP-1059,Google Ads_Small_Returning_Oct,Google Ads,1283.36,3687.69,1.8734649669617256,Top Performer
+CMP-1060,Facebook_Small_New_Dec,Facebook,577.52,7601.77,12.16278224130766,Top Performer
+CMP-1061,LinkedIn_Small_High-Value_Sep,LinkedIn,1963.78,7815.62,2.979885730580819,Top Performer
+CMP-1062,Facebook_Small_High-Value_Oct,Facebook,1158.46,25336.53,20.87087167446437,Top Performer
+CMP-1063,Email_Small_High-Value_Jul,Email,154.4,125461.87,811.5768782383419,Top Performer
+CMP-1064,LinkedIn_Large_New_Jul,LinkedIn,31969.07,97912.43,2.0627237514259877,Top Performer
+CMP-1065,LinkedIn_Medium_High-Value_Aug,LinkedIn,7903.18,30507.02,2.860094291158749,Top Performer
+CMP-1066,Facebook_Small_High-Value_Sep,Facebook,1033.96,12081.33,10.684523579248712,Top Performer
+CMP-1067,LinkedIn_Large_High-Value_Dec,LinkedIn,11629.15,46767.74,3.0215957314163115,Top Performer
+CMP-1068,Google Ads_Small_High-Value_Dec,Google Ads,1237.42,10279.01,7.306807712821839,Top Performer
+CMP-1069,Instagram_Large_New_Jul,Instagram,34634.0,383242.72,10.065505572558756,Top Performer
+CMP-1070,Facebook_Large_High-Value_Sep,Facebook,30125.45,508573.68,15.881861681734216,Top Performer
+CMP-1071,Instagram_Large_Returning_Dec,Instagram,35696.77,454172.75,11.7230769058377,Top Performer
+CMP-1072,LinkedIn_Small_Low-Value_Sep,LinkedIn,1082.25,1061.37,-0.0192931392931393,Loss-Making
+CMP-1073,Email_Small_High-Value_Jul,Email,107.92,125436.08,1161.306152705708,Top Performer
+CMP-1074,Facebook_Large_High-Value_Aug,Facebook,14031.12,163570.51,10.657694467726026,Top Performer
+CMP-1075,LinkedIn_Small_Low-Value_Nov,LinkedIn,978.46,569.11,-0.4183615068577151,Loss-Making
+CMP-1076,Google Ads_Small_Returning_Nov,Google Ads,677.25,5187.3,6.659357696566999,Top Performer
+CMP-1077,LinkedIn_Small_Returning_Oct,LinkedIn,1705.22,3789.82,1.222481556631989,Top Performer
+CMP-1078,Instagram_Medium_High-Value_Jul,Instagram,9924.04,243355.84,23.521851987698557,Top Performer
+CMP-1079,Facebook_Large_New_Sep,Facebook,47230.29,724247.6,14.334388164883167,Top Performer
+CMP-1080,LinkedIn_Small_Returning_Aug,LinkedIn,654.69,1394.08,1.1293742076402569,Top Performer
+CMP-1081,Email_Large_New_Aug,Email,4582.09,1452140.95,315.9167235911996,Top Performer
+CMP-1082,Email_Small_Returning_Sep,Email,97.9,95300.69,972.4493360572012,Top Performer
+CMP-1083,Email_Small_New_Oct,Email,117.27,80402.44,684.6181461584378,Top Performer
+CMP-1084,Email_Small_High-Value_Sep,Email,168.74,149433.05,884.5816640986131,Top Performer
+CMP-1085,Google Ads_Medium_Returning_Oct,Google Ads,6396.23,20054.68,2.135390691078964,Top Performer
+CMP-1086,Google Ads_Large_High-Value_Sep,Google Ads,15719.67,119197.54,6.582699891282704,Top Performer
+CMP-1087,Email_Small_High-Value_Jul,Email,155.15,152794.58,983.8184337737672,Top Performer
+CMP-1088,Facebook_Small_High-Value_Jul,Facebook,627.26,18218.64,28.044798010394416,Top Performer
+CMP-1089,Email_Medium_High-Value_Sep,Email,957.8,1167742.9,1218.1928377531842,Top Performer
+CMP-1090,LinkedIn_Large_New_Oct,LinkedIn,41085.88,57880.4,0.4087662233351216,Average
+CMP-1091,Instagram_Small_New_Oct,Instagram,1238.94,6002.53,3.844891600884627,Top Performer
+CMP-1092,LinkedIn_Medium_Returning_Oct,LinkedIn,2940.21,10235.21,2.481115294485768,Top Performer
+CMP-1093,Instagram_Small_High-Value_Dec,Instagram,1062.31,34749.04,31.71082828929409,Top Performer
+CMP-1094,LinkedIn_Medium_High-Value_Dec,LinkedIn,2097.24,10770.29,4.135458984188745,Top Performer
+CMP-1095,Email_Small_High-Value_Nov,Email,198.94,274386.08,1378.2403739821052,Top Performer
+CMP-1096,Email_Large_Low-Value_Dec,Email,3517.59,881341.12,249.5525430763676,Top Performer
+CMP-1097,LinkedIn_Large_High-Value_Oct,LinkedIn,46046.32,229950.59,3.99389723217838,Top Performer
+CMP-1098,Instagram_Medium_High-Value_Aug,Instagram,5645.25,124267.99,21.01284088392897,Top Performer
+CMP-1099,LinkedIn_Medium_High-Value_Oct,LinkedIn,4826.82,29197.3,5.048972201159356,Top Performer
+CMP-1100,Facebook_Large_Low-Value_Aug,Facebook,37926.47,162167.74,3.275845867015833,Top Performer
+CMP-1101,Instagram_Small_High-Value_Jul,Instagram,743.93,35722.39,47.01848292178028,Top Performer
+CMP-1102,Facebook_Small_Returning_Aug,Facebook,1420.12,10032.02,6.064205841759852,Top Performer
+CMP-1103,Facebook_Small_Low-Value_Dec,Facebook,539.55,1666.85,2.089333704012603,Top Performer
+CMP-1104,Email_Medium_Returning_Dec,Email,675.3,697403.09,1031.730771508959,Top Performer
+CMP-1105,Email_Large_Returning_Aug,Email,2874.77,1700717.03,590.6010776514295,Top Performer
+CMP-1106,Google Ads_Small_Low-Value_Aug,Google Ads,1719.35,5211.42,2.0310408003024403,Top Performer
+CMP-1107,Email_Small_New_Nov,Email,191.71,72667.91,378.0512232017109,Top Performer
+CMP-1108,Email_Large_Returning_Oct,Email,4816.2,3208916.24,665.2755367302022,Top Performer
+CMP-1109,LinkedIn_Large_High-Value_Oct,LinkedIn,24326.51,117770.56,3.841243565147652,Top Performer
+CMP-1110,Email_Large_Low-Value_Aug,Email,3080.65,1020906.36,330.3931670264392,Top Performer
+CMP-1111,Email_Large_High-Value_Sep,Email,2613.93,2909751.89,1112.1713129272782,Top Performer
+CMP-1112,LinkedIn_Small_Low-Value_Dec,LinkedIn,1556.12,549.32,-0.6469938051050047,Loss-Making
+CMP-1113,Email_Small_New_Sep,Email,138.49,76342.99,550.2527258285796,Top Performer
+CMP-1114,Instagram_Small_High-Value_Nov,Instagram,1270.98,47490.27,36.36508048907142,Top Performer
+CMP-1115,Facebook_Large_Returning_Oct,Facebook,47980.82,364563.9,6.598117331050199,Top Performer
+CMP-1116,Facebook_Medium_New_Oct,Facebook,5673.09,71177.57,11.546525791059196,Top Performer
+CMP-1117,LinkedIn_Small_Low-Value_Oct,LinkedIn,860.22,245.57,-0.7145265164725304,Loss-Making
+CMP-1118,Email_Large_Low-Value_Nov,Email,1555.31,378606.28,242.4281783052897,Top Performer
+CMP-1119,LinkedIn_Small_Low-Value_Oct,LinkedIn,1210.94,403.3,-0.6669529456455316,Loss-Making
+CMP-1120,Instagram_Large_Low-Value_Oct,Instagram,16757.4,31484.23,0.8788254741188966,Average
+CMP-1121,LinkedIn_Small_Returning_Nov,LinkedIn,1191.17,2261.75,0.8987634006900777,Average
+CMP-1122,Email_Medium_Low-Value_Jul,Email,231.45,62888.22,270.7140635126377,Top Performer
+CMP-1123,Email_Small_Returning_Oct,Email,188.13,118709.5,629.9971827991283,Top Performer
+CMP-1124,Google Ads_Large_Low-Value_Nov,Google Ads,17380.84,26752.06,0.5391695683292638,Average
+CMP-1125,Google Ads_Medium_Low-Value_Aug,Google Ads,4951.31,5762.78,0.1638899604347131,Average
+CMP-1126,Google Ads_Medium_High-Value_Oct,Google Ads,7706.8,72242.97,8.37392562412415,Top Performer
+CMP-1127,Email_Medium_High-Value_Sep,Email,557.93,570402.24,1021.35448891438,Top Performer
+CMP-1128,Email_Medium_High-Value_Jul,Email,216.06,166452.64,769.4000740535038,Top Performer
+CMP-1129,LinkedIn_Small_New_Sep,LinkedIn,1835.79,4492.99,1.4474422455727507,Top Performer
+CMP-1130,Google Ads_Small_New_Sep,Google Ads,630.38,3167.64,4.024969066277484,Top Performer
+CMP-1131,LinkedIn_Small_Returning_Aug,LinkedIn,691.37,1284.93,0.8585272719383255,Average
+CMP-1132,Google Ads_Large_Returning_Oct,Google Ads,24243.87,77991.01,2.216937312401032,Top Performer
+CMP-1133,Instagram_Large_Returning_Dec,Instagram,16114.37,103083.0,5.396961221568079,Top Performer
+CMP-1134,Facebook_Large_High-Value_Jul,Facebook,16934.94,348650.1,19.587619442407235,Top Performer
+CMP-1135,Instagram_Large_Low-Value_Oct,Instagram,49295.14,261679.96,4.308433245143436,Top Performer
+CMP-1136,Google Ads_Large_Returning_Jul,Google Ads,42682.88,245137.98,4.743238975439334,Top Performer
+CMP-1137,LinkedIn_Small_New_Nov,LinkedIn,1335.14,1855.02,0.3893823868657967,Average
+CMP-1138,LinkedIn_Medium_Low-Value_Dec,LinkedIn,4589.43,1875.61,-0.591319619211972,Loss-Making
+CMP-1139,LinkedIn_Medium_High-Value_Jul,LinkedIn,6884.96,24883.15,2.614131382026911,Top Performer
+CMP-1140,Google Ads_Large_Low-Value_Oct,Google Ads,31303.58,21550.83,-0.3115538222784742,Loss-Making
+CMP-1141,Facebook_Large_Low-Value_Aug,Facebook,49598.41,188878.53,2.808156955031421,Top Performer
+CMP-1142,Instagram_Medium_Low-Value_Oct,Instagram,8081.82,29247.41,2.6189138090182658,Top Performer
+CMP-1143,Instagram_Small_High-Value_Sep,Instagram,1894.29,67244.2,34.49836614245971,Top Performer
+CMP-1144,Email_Large_Returning_Oct,Email,4753.36,2423151.76,508.7766127539256,Top Performer
+CMP-1145,Email_Medium_High-Value_Jul,Email,873.46,770805.7,881.4739541593203,Top Performer
+CMP-1146,Facebook_Medium_Low-Value_Aug,Facebook,3314.13,12336.73,2.722464115770956,Top Performer
+CMP-1147,Instagram_Large_High-Value_Nov,Instagram,45088.02,1175428.61,25.069643554984232,Top Performer
+CMP-1148,LinkedIn_Small_New_Nov,LinkedIn,1194.02,1757.31,0.4717592670139528,Average
+CMP-1149,Facebook_Large_Low-Value_Nov,Facebook,45982.98,200838.95,3.367680172098459,Top Performer
+CMP-1150,Email_Small_Low-Value_Oct,Email,67.53,11291.2,166.2027247149415,Top Performer
+CMP-1151,Instagram_Large_Returning_Oct,Instagram,41761.01,793775.88,18.007583389386415,Top Performer
+CMP-1152,Instagram_Large_High-Value_Oct,Instagram,16067.0,272697.53,15.972523184166306,Top Performer
+CMP-1153,Instagram_Medium_Low-Value_Nov,Instagram,6559.12,41825.54,5.376699923160424,Top Performer
+CMP-1154,Email_Medium_High-Value_Sep,Email,288.51,433507.64,1501.5740528924475,Top Performer
+CMP-1155,Google Ads_Small_Returning_Sep,Google Ads,724.88,4108.13,4.667324246771879,Top Performer
+CMP-1156,Facebook_Large_Returning_Aug,Facebook,37757.94,221178.46,4.85779997531645,Top Performer
+CMP-1157,Instagram_Small_High-Value_Jul,Instagram,1862.68,63676.17,33.18524384220585,Top Performer
+CMP-1158,Facebook_Medium_High-Value_Aug,Facebook,3226.81,53298.07,15.517263179424882,Top Performer
+CMP-1159,LinkedIn_Small_Returning_Sep,LinkedIn,1808.19,6543.5,2.6188121823480937,Top Performer
+CMP-1160,LinkedIn_Small_High-Value_Dec,LinkedIn,1560.86,5981.35,2.8320861576310503,Top Performer
+CMP-1161,Google Ads_Medium_New_Nov,Google Ads,7891.55,31275.14,2.963117511768917,Top Performer
+CMP-1162,Email_Small_Low-Value_Sep,Email,197.73,61631.54,310.6954432812421,Top Performer
+CMP-1163,Instagram_Small_Low-Value_Jul,Instagram,1278.26,3756.99,1.9391438361522693,Top Performer
+CMP-1164,Email_Large_New_Nov,Email,4211.41,1881939.36,445.8668118278677,Top Performer
+CMP-1165,Facebook_Medium_Returning_Nov,Facebook,9358.84,85890.06,8.177425834825684,Top Performer
+CMP-1166,Facebook_Medium_New_Nov,Facebook,3796.84,27654.79,6.283633231845429,Top Performer
+CMP-1167,LinkedIn_Medium_Returning_Nov,LinkedIn,5351.4,13700.4,1.5601524834622718,Top Performer
+CMP-1168,Email_Medium_High-Value_Nov,Email,210.48,239151.58,1135.2199733941466,Top Performer
+CMP-1169,LinkedIn_Large_New_Dec,LinkedIn,26584.96,58274.48,1.192009316545897,Top Performer
+CMP-1170,Facebook_Large_Returning_Sep,Facebook,12683.06,100764.45,6.94480590646106,Top Performer
+CMP-1171,Facebook_Large_Returning_Aug,Facebook,17627.51,82367.18,3.672649738959161,Top Performer
+CMP-1172,Facebook_Medium_New_Oct,Facebook,8204.22,71430.51,7.706557113290477,Top Performer
+CMP-1173,Email_Small_High-Value_Jul,Email,133.95,202006.78,1507.0759985069055,Top Performer
+CMP-1174,Instagram_Large_Low-Value_Jul,Instagram,24932.37,57488.84,1.3057912264257268,Top Performer
+CMP-1175,Instagram_Small_Returning_Oct,Instagram,734.23,5920.17,7.063100118491481,Top Performer
+CMP-1176,Facebook_Small_Returning_Sep,Facebook,846.61,7929.49,8.36616623947272,Top Performer
+CMP-1177,Google Ads_Large_Returning_Sep,Google Ads,17141.79,48752.1,1.8440495420839944,Top Performer
+CMP-1178,Instagram_Medium_Low-Value_Aug,Instagram,7778.14,46329.24,4.95633917620408,Top Performer
+CMP-1179,Email_Large_High-Value_Nov,Email,1819.94,1521285.93,834.8989472180401,Top Performer
+CMP-1180,Email_Small_New_Dec,Email,81.18,32710.57,401.9387780241439,Top Performer
+CMP-1181,Instagram_Small_High-Value_Jul,Instagram,1839.01,43460.31,22.63244898070157,Top Performer
+CMP-1182,LinkedIn_Medium_New_Dec,LinkedIn,6722.36,12940.18,0.9249460011067544,Average
+CMP-1183,Google Ads_Large_Returning_Oct,Google Ads,27445.06,100881.84,2.6757740737313016,Top Performer
+CMP-1184,Instagram_Medium_Returning_Nov,Instagram,8947.74,128142.07,13.32116601510549,Top Performer
+CMP-1185,Google Ads_Medium_Low-Value_Sep,Google Ads,2179.75,2801.4,0.2851932561073518,Average
+CMP-1186,Instagram_Medium_New_Aug,Instagram,3114.85,34322.81,10.01908920172721,Top Performer
+CMP-1187,Email_Medium_High-Value_Dec,Email,417.85,472481.99,1129.7454588967332,Top Performer
+CMP-1188,Google Ads_Medium_Low-Value_Jul,Google Ads,4192.44,6443.39,0.5369069086260032,Average
+CMP-1189,Instagram_Large_New_Oct,Instagram,10439.83,156600.85,14.000325675801236,Top Performer
+CMP-1190,LinkedIn_Small_Low-Value_Oct,LinkedIn,1400.78,976.89,-0.3026099744428104,Loss-Making
+CMP-1191,LinkedIn_Medium_High-Value_Dec,LinkedIn,5065.11,18770.76,2.7058938502816323,Top Performer
+CMP-1192,Google Ads_Large_Returning_Sep,Google Ads,13311.95,45034.41,2.383006246267452,Top Performer
+CMP-1193,Instagram_Medium_Low-Value_Dec,Instagram,4845.38,20431.78,3.2167549294379385,Top Performer
+CMP-1194,Google Ads_Medium_Returning_Aug,Google Ads,7309.37,21194.21,1.8995946299065447,Top Performer
+CMP-1195,Google Ads_Small_Low-Value_Jul,Google Ads,893.4,1364.59,0.5274121334228788,Average
+CMP-1196,Email_Small_New_Dec,Email,100.14,57110.78,569.309366886359,Top Performer
+CMP-1197,Instagram_Medium_High-Value_Oct,Instagram,5963.93,183638.38,29.7915049304737,Top Performer
+CMP-1198,Facebook_Small_Low-Value_Nov,Facebook,1699.12,5302.63,2.1208095955553468,Top Performer
+CMP-1199,Facebook_Medium_Returning_Jul,Facebook,2732.66,30366.79,10.11253869855745,Top Performer
+CMP-1200,Instagram_Medium_High-Value_Jul,Instagram,3481.06,144434.56,40.49154567861513,Top Performer
+CMP-1201,LinkedIn_Medium_Low-Value_Aug,LinkedIn,7270.27,5549.24,-0.236721607313071,Loss-Making
+CMP-1202,Email_Large_High-Value_Sep,Email,1884.84,3321522.37,1761.2304121304728,Top Performer
+CMP-1203,Email_Small_Low-Value_Sep,Email,188.79,24864.74,130.70581068912549,Top Performer
+CMP-1204,LinkedIn_Medium_Low-Value_Aug,LinkedIn,7579.36,9327.3,0.2306184163306664,Average
+CMP-1205,Instagram_Medium_Low-Value_Dec,Instagram,5793.71,37688.67,5.505101221842308,Top Performer
+CMP-1206,Facebook_Small_Low-Value_Jul,Facebook,555.51,959.27,0.7268275998631888,Average
+CMP-1207,LinkedIn_Medium_High-Value_Jul,LinkedIn,7570.31,25056.28,2.3098089774394968,Top Performer
+CMP-1208,LinkedIn_Large_Low-Value_Jul,LinkedIn,31579.65,31953.42,0.0118357866537468,Average
+CMP-1209,Email_Medium_Returning_Jul,Email,692.69,179837.95,258.62255843162166,Top Performer
+CMP-1210,Instagram_Small_Low-Value_Dec,Instagram,1812.05,14432.09,6.964509809331973,Top Performer
+CMP-1211,LinkedIn_Large_Low-Value_Sep,LinkedIn,24028.47,19645.53,-0.1824061207392731,Loss-Making
+CMP-1212,LinkedIn_Small_New_Dec,LinkedIn,1810.52,4238.24,1.340896538011179,Top Performer
+CMP-1213,Instagram_Medium_Returning_Jul,Instagram,7900.66,53138.63,5.725846954558227,Top Performer
+CMP-1214,Google Ads_Large_Low-Value_Aug,Google Ads,21852.32,30622.74,0.401349604984734,Average
+CMP-1215,Google Ads_Small_New_Sep,Google Ads,1141.66,7104.81,5.223227580890984,Top Performer
+CMP-1216,Instagram_Small_High-Value_Oct,Instagram,1679.52,54549.73,31.47935719729447,Top Performer
+CMP-1217,LinkedIn_Large_Low-Value_Nov,LinkedIn,28696.06,16762.99,-0.4158434990726949,Loss-Making
+CMP-1218,Facebook_Large_Returning_Jul,Facebook,47709.27,387328.07,7.118507577248614,Top Performer
+CMP-1219,LinkedIn_Large_Returning_Nov,LinkedIn,17061.12,24993.68,0.4649495461024834,Average
+CMP-1220,Facebook_Medium_Low-Value_Dec,Facebook,2462.74,19689.66,6.995021804981444,Top Performer
+CMP-1221,Instagram_Medium_New_Oct,Instagram,3391.16,30340.77,7.9470181294896145,Top Performer
+CMP-1222,Facebook_Medium_New_Oct,Facebook,8526.66,74757.09,7.76745290653081,Top Performer
+CMP-1223,Instagram_Medium_Low-Value_Dec,Instagram,6640.69,16600.39,1.499798966673644,Top Performer
+CMP-1224,Instagram_Medium_Returning_Oct,Instagram,9109.98,192001.22,20.07592113264793,Top Performer
+CMP-1225,Facebook_Medium_Low-Value_Nov,Facebook,6406.86,13590.59,1.121255966261164,Top Performer
+CMP-1226,Instagram_Large_High-Value_Jul,Instagram,38936.8,870581.43,21.358833545643197,Top Performer
+CMP-1227,Instagram_Large_New_Nov,Instagram,13045.23,193137.7,13.805235323562712,Top Performer
+CMP-1228,LinkedIn_Small_Low-Value_Sep,LinkedIn,1737.02,980.38,-0.4355965964698161,Loss-Making
+CMP-1229,Instagram_Small_Returning_Dec,Instagram,1817.94,40335.18,21.187299910888147,Top Performer
+CMP-1230,Facebook_Large_New_Dec,Facebook,38334.52,562885.25,13.683508493128388,Top Performer
+CMP-1231,Instagram_Large_Low-Value_Jul,Instagram,40108.67,114846.68,1.863387890947269,Top Performer
+CMP-1232,Facebook_Medium_New_Sep,Facebook,8606.53,49623.07,4.765746473898307,Top Performer
+CMP-1233,Facebook_Large_Returning_Aug,Facebook,42718.68,306551.35,6.176049213131117,Top Performer
+CMP-1234,LinkedIn_Medium_High-Value_Aug,LinkedIn,6935.42,38480.83,4.548449841538076,Top Performer
+CMP-1235,Instagram_Medium_High-Value_Jul,Instagram,6319.88,181252.95,27.679808793837857,Top Performer
+CMP-1236,Facebook_Large_Returning_Dec,Facebook,48519.68,338188.71,5.970134798910463,Top Performer
+CMP-1237,LinkedIn_Medium_High-Value_Jul,LinkedIn,9497.83,39715.0,3.181481454184798,Top Performer
+CMP-1238,Instagram_Medium_New_Oct,Instagram,2538.8,16863.43,5.642283756105247,Top Performer
+CMP-1239,LinkedIn_Medium_Low-Value_Dec,LinkedIn,8972.29,6644.92,-0.2593953160229997,Loss-Making
+CMP-1240,Facebook_Large_Low-Value_Jul,Facebook,40330.53,85088.57,1.109780605412327,Top Performer
+CMP-1241,Instagram_Small_Returning_Dec,Instagram,1655.61,28295.65,16.09077016930316,Top Performer
+CMP-1242,Instagram_Small_Low-Value_Jul,Instagram,1139.27,5264.55,3.620985367823256,Top Performer
+CMP-1243,Google Ads_Small_High-Value_Nov,Google Ads,831.15,7066.59,7.502183721349938,Top Performer
+CMP-1244,Facebook_Medium_Returning_Oct,Facebook,9606.91,87006.2,8.05662694872753,Top Performer
+CMP-1245,LinkedIn_Large_Low-Value_Nov,LinkedIn,35541.04,23887.21,-0.3278978330403387,Loss-Making
+CMP-1246,Email_Large_New_Nov,Email,4576.4,2028661.11,442.2875426099118,Top Performer
+CMP-1247,Instagram_Medium_New_Dec,Instagram,4948.21,54773.49,10.0693543725913,Top Performer
+CMP-1248,Email_Medium_Low-Value_Aug,Email,894.9,322129.84,358.961828137222,Top Performer
+CMP-1249,Instagram_Medium_High-Value_Jul,Instagram,7009.76,165140.83,22.55869958457921,Top Performer
+CMP-1250,Facebook_Small_New_Oct,Facebook,1694.81,14345.34,7.46427623155398,Top Performer
+CMP-1251,LinkedIn_Medium_New_Jul,LinkedIn,5442.45,8439.38,0.5506582513390108,Average
+CMP-1252,Facebook_Large_Returning_Jul,Facebook,20759.74,107849.61,4.195132983361063,Top Performer
+CMP-1253,LinkedIn_Medium_Returning_Aug,LinkedIn,2579.58,3958.31,0.5344784809930299,Average
+CMP-1254,LinkedIn_Small_New_Sep,LinkedIn,1542.47,3039.57,0.9705861378179156,Average
+CMP-1255,LinkedIn_Small_High-Value_Aug,LinkedIn,657.4,2698.0,3.1040462427745665,Top Performer
+CMP-1256,Facebook_Small_New_Sep,Facebook,1427.23,10413.41,6.296238167639413,Top Performer
+CMP-1257,Instagram_Medium_New_Aug,Instagram,6141.69,27193.19,3.4276396236215114,Top Performer
+CMP-1258,Facebook_Small_Low-Value_Nov,Facebook,1095.38,4533.81,3.139029377932772,Top Performer
+CMP-1259,Email_Large_Low-Value_Oct,Email,1800.6,342530.37,189.2312395868044,Top Performer
+CMP-1260,Google Ads_Small_Low-Value_Nov,Google Ads,547.38,1031.8,0.8849793562059264,Average
+CMP-1261,LinkedIn_Large_High-Value_Oct,LinkedIn,44838.76,277668.24,5.192594086009514,Top Performer
+CMP-1262,Google Ads_Medium_Low-Value_Oct,Google Ads,2640.92,5639.68,1.1354982354633991,Top Performer
+CMP-1263,Email_Small_Low-Value_Jul,Email,146.54,17622.93,119.26020199263,Top Performer
+CMP-1264,LinkedIn_Small_Returning_Jul,LinkedIn,870.65,2213.8,1.54269798426463,Top Performer
+CMP-1265,LinkedIn_Large_High-Value_Oct,LinkedIn,23475.83,109218.47,3.65237948988385,Top Performer
+CMP-1266,Instagram_Large_Low-Value_Nov,Instagram,32214.54,221203.13,5.8665618071839605,Top Performer
+CMP-1267,Google Ads_Large_New_Dec,Google Ads,36013.03,71691.15,0.9907003104154244,Average
+CMP-1268,Facebook_Small_Low-Value_Oct,Facebook,886.52,4608.65,4.198585480305012,Top Performer
+CMP-1269,Instagram_Medium_Low-Value_Oct,Instagram,5403.95,14609.06,1.703403991524718,Top Performer
+CMP-1270,Instagram_Large_Low-Value_Sep,Instagram,44681.26,203448.4,3.553327278595097,Top Performer
+CMP-1271,Instagram_Medium_Returning_Dec,Instagram,8987.39,120486.24,12.406143496610252,Top Performer
+CMP-1272,Google Ads_Medium_New_Jul,Google Ads,9298.91,53640.42,4.768463185470124,Top Performer
+CMP-1273,Instagram_Small_Returning_Nov,Instagram,697.35,6785.4,8.730264573026457,Top Performer
+CMP-1274,LinkedIn_Small_High-Value_Dec,LinkedIn,1957.09,7109.22,2.63254628044699,Top Performer
+CMP-1275,Instagram_Medium_Low-Value_Jul,Instagram,8966.0,37750.74,3.210432745929065,Top Performer
+CMP-1276,Instagram_Large_High-Value_Jul,Instagram,16540.95,505967.38,29.58877392169132,Top Performer
+CMP-1277,Facebook_Medium_Returning_Dec,Facebook,4601.52,49215.54,9.695496270797475,Top Performer
+CMP-1278,Google Ads_Medium_High-Value_Nov,Google Ads,3888.4,27074.31,5.962840757123753,Top Performer
+CMP-1279,Instagram_Large_Returning_Oct,Instagram,43155.33,572133.08,12.257529950529864,Top Performer
+CMP-1280,Google Ads_Small_High-Value_Jul,Google Ads,750.56,6738.41,7.9778432104029,Top Performer
+CMP-1281,Instagram_Small_High-Value_Sep,Instagram,1211.95,53806.21,43.3963942406865,Top Performer
+CMP-1282,Facebook_Small_Low-Value_Jul,Facebook,808.76,1832.69,1.2660492605964688,Top Performer
+CMP-1283,Google Ads_Medium_Returning_Oct,Google Ads,9492.85,44306.74,3.6673801861400954,Top Performer
+CMP-1284,Instagram_Medium_Returning_Oct,Instagram,4529.25,56789.27,11.5383385770271,Top Performer
+CMP-1285,LinkedIn_Small_New_Jul,LinkedIn,1947.68,5198.09,1.6688624414688242,Top Performer
+CMP-1286,LinkedIn_Small_New_Dec,LinkedIn,1182.11,1599.13,0.3527759683954964,Average
+CMP-1287,Email_Large_Low-Value_Nov,Email,1119.89,237599.57,211.16331068229917,Top Performer
+CMP-1288,Email_Large_High-Value_Aug,Email,4879.65,7180671.79,1470.5546791265767,Top Performer
+CMP-1289,Instagram_Medium_Low-Value_Jul,Instagram,3417.2,23893.49,5.992125131686762,Top Performer
+CMP-1290,Email_Small_High-Value_Jul,Email,124.58,142657.09,1144.1042703483706,Top Performer
+CMP-1291,LinkedIn_Small_New_Jul,LinkedIn,1896.42,4403.76,1.3221438288986618,Top Performer
+CMP-1292,Facebook_Medium_Returning_Sep,Facebook,5150.92,73321.33,13.234608574778877,Top Performer
+CMP-1293,Google Ads_Large_New_Nov,Google Ads,11928.48,96563.63,7.095216657948038,Top Performer
+CMP-1294,Facebook_Large_Returning_Oct,Facebook,32680.65,327753.24,9.028969436042429,Top Performer
+CMP-1295,LinkedIn_Medium_High-Value_Jul,LinkedIn,7340.75,43713.51,4.954910601777748,Top Performer
+CMP-1296,Email_Small_New_Oct,Email,172.68,59122.8,341.3835997220292,Top Performer
+CMP-1297,LinkedIn_Medium_Low-Value_Nov,LinkedIn,4931.69,3245.7,-0.3418686089352737,Loss-Making
+CMP-1298,Instagram_Small_New_Oct,Instagram,856.32,7944.83,8.277875093423019,Top Performer
+CMP-1299,Facebook_Medium_Low-Value_Dec,Facebook,7345.7,33093.91,3.505208489320283,Top Performer
+CMP-1300,Email_Medium_New_Sep,Email,615.27,244430.32,396.27326214507457,Top Performer
+CMP-1301,Email_Medium_New_Oct,Email,519.06,429680.84,826.8057257349826,Top Performer
+CMP-1302,Facebook_Small_High-Value_Aug,Facebook,1719.48,31927.27,17.567979854374578,Top Performer
+CMP-1303,Google Ads_Medium_Returning_Sep,Google Ads,2060.5,15411.97,6.479723368114535,Top Performer
+CMP-1304,Facebook_Medium_New_Aug,Facebook,2482.14,22675.05,8.13528245787909,Top Performer
+CMP-1305,Facebook_Small_Returning_Dec,Facebook,885.16,8625.04,8.744046274119935,Top Performer
+CMP-1306,Email_Large_Low-Value_Nov,Email,2245.23,450190.72,199.50984531651545,Top Performer
+CMP-1307,LinkedIn_Medium_High-Value_Dec,LinkedIn,2975.09,10981.18,2.69104127942348,Top Performer
+CMP-1308,Email_Medium_New_Oct,Email,767.24,526068.5,684.6635472603097,Top Performer
+CMP-1309,Instagram_Large_New_Sep,Instagram,29341.83,373373.38,11.724952056500904,Top Performer
+CMP-1310,Instagram_Small_Low-Value_Oct,Instagram,1927.11,8401.67,3.3597251843433957,Top Performer
+CMP-1311,Instagram_Large_High-Value_Jul,Instagram,18481.79,723053.8,38.122498416008405,Top Performer
+CMP-1312,LinkedIn_Large_Low-Value_Oct,LinkedIn,24136.86,19524.47,-0.1910932076500422,Loss-Making
+CMP-1313,Google Ads_Large_Low-Value_Nov,Google Ads,26949.53,40733.38,0.5114690311853305,Average
+CMP-1314,Instagram_Small_Low-Value_Nov,Instagram,1379.91,4770.39,2.457029806291715,Top Performer
+CMP-1315,Email_Large_New_Sep,Email,1382.86,774660.76,559.1874087037011,Top Performer
+CMP-1316,LinkedIn_Small_Returning_Jul,LinkedIn,847.92,2380.46,1.8074110765166524,Top Performer
+CMP-1317,Email_Medium_Returning_Oct,Email,309.15,227325.5,734.3242762413068,Top Performer
+CMP-1318,Email_Large_Low-Value_Sep,Email,3769.74,809189.62,213.65396022006823,Top Performer
+CMP-1319,Google Ads_Medium_High-Value_Jul,Google Ads,6627.1,56825.73,7.574750645078542,Top Performer
+CMP-1320,LinkedIn_Medium_Low-Value_Sep,LinkedIn,3534.94,1214.55,-0.6564156675926608,Loss-Making
+CMP-1321,Facebook_Large_High-Value_Jul,Facebook,30762.39,588130.55,18.11849339404383,Top Performer
+CMP-1322,Instagram_Large_High-Value_Dec,Instagram,45203.16,1083330.65,22.96581677033198,Top Performer
+CMP-1323,Facebook_Large_New_Sep,Facebook,36779.48,590466.11,15.054226704673365,Top Performer
+CMP-1324,Instagram_Large_Returning_Dec,Instagram,28608.22,231628.91,7.096585876367002,Top Performer
+CMP-1325,Google Ads_Medium_Low-Value_Nov,Google Ads,7520.04,9048.0,0.2031850894410136,Average
+CMP-1326,Instagram_Small_High-Value_Aug,Instagram,1634.24,63307.79,37.73836768161348,Top Performer
+CMP-1327,Email_Small_Returning_Aug,Email,85.2,72063.55,844.8163145539907,Top Performer
+CMP-1328,Google Ads_Large_High-Value_Jul,Google Ads,31598.29,297984.44,8.430397657594762,Top Performer
+CMP-1329,LinkedIn_Medium_New_Dec,LinkedIn,8042.16,20790.41,1.5851773652849483,Top Performer
+CMP-1330,LinkedIn_Small_Low-Value_Aug,LinkedIn,554.24,181.03,-0.6733725461893765,Loss-Making
+CMP-1331,LinkedIn_Small_Returning_Oct,LinkedIn,1905.44,3220.49,0.6901555546225542,Average
+CMP-1332,Instagram_Large_Returning_Oct,Instagram,34023.77,714892.9,20.011572203785768,Top Performer
+CMP-1333,Email_Small_Returning_Nov,Email,177.71,123049.8,691.4191097856057,Top Performer
+CMP-1334,Email_Large_Returning_Oct,Email,2522.49,2894054.28,1146.3005958398248,Top Performer
+CMP-1335,Email_Medium_Low-Value_Sep,Email,443.74,75610.63,169.393991977284,Top Performer
+CMP-1336,LinkedIn_Small_Low-Value_Aug,LinkedIn,1019.15,671.32,-0.3412942157680419,Loss-Making
+CMP-1337,Facebook_Large_High-Value_Jul,Facebook,44480.58,1427642.89,31.095869478320648,Top Performer
+CMP-1338,Instagram_Small_New_Nov,Instagram,762.26,6506.51,7.535814551465379,Top Performer
+CMP-1339,Google Ads_Medium_Returning_Sep,Google Ads,2545.38,10495.3,3.123274324462358,Top Performer
+CMP-1340,Facebook_Small_Low-Value_Jul,Facebook,1948.73,5807.44,1.9801152545503995,Top Performer
+CMP-1341,Instagram_Small_New_Oct,Instagram,658.5,8856.55,12.44958238420653,Top Performer
+CMP-1342,LinkedIn_Medium_High-Value_Aug,LinkedIn,3216.2,9206.03,1.8623935078664269,Top Performer
+CMP-1343,Instagram_Medium_Returning_Jul,Instagram,9958.93,93506.28,8.389189400869371,Top Performer
+CMP-1344,Instagram_Small_Returning_Aug,Instagram,713.37,6676.1,8.358537645261226,Top Performer
+CMP-1345,Email_Medium_Returning_Dec,Email,249.83,226389.55,905.1743985910418,Top Performer
+CMP-1346,LinkedIn_Small_New_Jul,LinkedIn,959.38,1198.35,0.2490879526360774,Average
+CMP-1347,Facebook_Large_Returning_Nov,Facebook,45464.17,338593.66,6.4474835898246905,Top Performer
+CMP-1348,LinkedIn_Medium_Low-Value_Jul,LinkedIn,8620.3,5424.93,-0.3706796747212973,Loss-Making
+CMP-1349,Instagram_Small_New_Jul,Instagram,1222.02,7517.89,5.1520187885632,Top Performer
+CMP-1350,LinkedIn_Small_Low-Value_Jul,LinkedIn,1302.97,788.42,-0.3949054851608249,Loss-Making
+CMP-1351,LinkedIn_Large_New_Dec,LinkedIn,42061.48,87609.41,1.0828893800218156,Top Performer
+CMP-1352,Facebook_Medium_Returning_Sep,Facebook,5635.02,34777.6,5.17169060624452,Top Performer
+CMP-1353,LinkedIn_Large_High-Value_Aug,LinkedIn,22987.04,98938.09,3.3040813432264438,Top Performer
+CMP-1354,Facebook_Medium_New_Nov,Facebook,5675.57,111188.45,18.590710712756607,Top Performer
+CMP-1355,LinkedIn_Medium_New_Oct,LinkedIn,4523.26,11397.41,1.5197335550023654,Top Performer
+CMP-1356,Email_Large_High-Value_Sep,Email,1153.71,2076847.37,1799.146804656283,Top Performer
+CMP-1357,Instagram_Small_New_Sep,Instagram,1842.68,20470.0,10.108819762519808,Top Performer
+CMP-1358,LinkedIn_Small_High-Value_Aug,LinkedIn,725.25,2656.27,2.662557738710789,Top Performer
+CMP-1359,LinkedIn_Small_High-Value_Dec,LinkedIn,627.19,1366.35,1.1785264433425275,Top Performer
+CMP-1360,Email_Small_Returning_Aug,Email,193.48,93382.38,481.6461649782924,Top Performer
+CMP-1361,Google Ads_Small_High-Value_Aug,Google Ads,1661.98,10544.6,5.344601018062793,Top Performer
+CMP-1362,Google Ads_Large_High-Value_Sep,Google Ads,36412.11,229690.94,5.308092005654164,Top Performer
+CMP-1363,LinkedIn_Small_Low-Value_Sep,LinkedIn,1951.79,1289.79,-0.3391758334656904,Loss-Making
+CMP-1364,Instagram_Large_High-Value_Jul,Instagram,18227.49,531145.46,28.13980257292693,Top Performer
+CMP-1365,Instagram_Medium_New_Oct,Instagram,6242.42,64456.43,9.32555162901567,Top Performer
+CMP-1366,Email_Small_Low-Value_Sep,Email,197.0,61916.92,313.2990862944162,Top Performer
+CMP-1367,Email_Medium_High-Value_Nov,Email,725.18,745239.83,1026.661863261535,Top Performer
+CMP-1368,Email_Large_New_Oct,Email,2488.67,2137772.55,858.002017141686,Top Performer
+CMP-1369,LinkedIn_Small_High-Value_Sep,LinkedIn,861.04,3456.2,3.0139830902164824,Top Performer
+CMP-1370,Instagram_Medium_High-Value_Sep,Instagram,4287.25,217318.43,49.689469939938185,Top Performer
+CMP-1371,Email_Medium_Returning_Dec,Email,401.79,365107.43,907.7021329550264,Top Performer
+CMP-1372,Email_Large_New_Sep,Email,4105.79,3445324.6,838.1380465147998,Top Performer
+CMP-1373,Instagram_Large_New_Jul,Instagram,47495.52,421614.49,7.876931761142946,Top Performer
+CMP-1374,Instagram_Small_Returning_Jul,Instagram,1726.68,25642.27,13.850620844626684,Top Performer
+CMP-1375,Email_Small_New_Aug,Email,131.34,80089.65,608.7887163088168,Top Performer
+CMP-1376,Instagram_Large_High-Value_Oct,Instagram,37555.41,1049632.82,26.94891122211154,Top Performer
+CMP-1377,LinkedIn_Medium_Returning_Dec,LinkedIn,5692.46,13277.11,1.3324028627342137,Top Performer
+CMP-1378,Instagram_Large_Low-Value_Jul,Instagram,13967.12,58240.9,3.16985749388564,Top Performer
+CMP-1379,LinkedIn_Medium_High-Value_Oct,LinkedIn,7864.57,36121.78,3.592975839747119,Top Performer
+CMP-1380,Facebook_Large_New_Jul,Facebook,32169.06,288885.66,7.980233180577859,Top Performer
+CMP-1381,Email_Small_Low-Value_Nov,Email,80.37,12306.72,152.12579320642027,Top Performer
+CMP-1382,Instagram_Large_Low-Value_Aug,Instagram,22224.17,116568.78,4.245135363885356,Top Performer
+CMP-1383,Email_Small_Returning_Aug,Email,158.31,99293.26,626.2077569326005,Top Performer
+CMP-1384,Email_Small_Returning_Oct,Email,154.34,94735.24,612.8087339639757,Top Performer
+CMP-1385,Instagram_Large_New_Nov,Instagram,13719.63,100939.34,6.357293163153817,Top Performer
+CMP-1386,Instagram_Large_Returning_Dec,Instagram,33199.35,512234.14,14.429041231228926,Top Performer
+CMP-1387,Instagram_Small_Returning_Aug,Instagram,1707.48,12118.22,6.097137301754632,Top Performer
+CMP-1388,Facebook_Medium_Low-Value_Jul,Facebook,2468.41,12137.05,3.916950587625232,Top Performer
+CMP-1389,LinkedIn_Large_High-Value_Oct,LinkedIn,30690.76,103034.29,2.357176231543305,Top Performer
+CMP-1390,LinkedIn_Medium_New_Jul,LinkedIn,2708.8,8091.08,1.986961015948021,Top Performer
+CMP-1391,Email_Large_Low-Value_Oct,Email,4732.45,1335450.23,281.190034760008,Top Performer
+CMP-1392,Facebook_Small_High-Value_Dec,Facebook,677.5,16504.66,23.36112177121771,Top Performer
+CMP-1393,Email_Large_High-Value_Aug,Email,3351.08,2386061.28,711.0275493273809,Top Performer
+CMP-1394,Facebook_Large_Returning_Oct,Facebook,10967.67,90815.1,7.280254602846366,Top Performer
+CMP-1395,Google Ads_Small_Returning_Sep,Google Ads,1911.02,12345.79,5.460314387081245,Top Performer
+CMP-1396,Instagram_Large_Returning_Sep,Instagram,17444.06,145130.26,7.319752397091044,Top Performer
+CMP-1397,Google Ads_Large_High-Value_Aug,Google Ads,13224.06,174853.28,12.22235985015192,Top Performer
+CMP-1398,Instagram_Medium_Returning_Dec,Instagram,8124.1,93853.13,10.552434115778976,Top Performer
+CMP-1399,Google Ads_Large_Returning_Nov,Google Ads,36278.21,109662.63,2.0228236178135584,Top Performer
+CMP-1400,Facebook_Small_High-Value_Nov,Facebook,892.56,15835.77,16.74196692659317,Top Performer
+CMP-1401,Google Ads_Large_New_Dec,Google Ads,40375.93,172034.9,3.260828171635923,Top Performer
+CMP-1402,Facebook_Large_Low-Value_Dec,Facebook,11344.54,33490.51,1.9521258684794625,Top Performer
+CMP-1403,Email_Medium_High-Value_Dec,Email,528.88,697294.26,1317.4356753895024,Top Performer
+CMP-1404,Facebook_Medium_Low-Value_Sep,Facebook,9707.16,31196.12,2.2137226542057613,Top Performer
+CMP-1405,Google Ads_Medium_Returning_Oct,Google Ads,4081.26,26546.02,5.504368748866772,Top Performer
+CMP-1406,Email_Large_Returning_Sep,Email,1792.39,1433214.91,798.6110835253488,Top Performer
+CMP-1407,Instagram_Medium_High-Value_Sep,Instagram,4796.05,69803.94,13.554464611503215,Top Performer
+CMP-1408,Instagram_Small_New_Sep,Instagram,1775.92,25298.6,13.24534888958962,Top Performer
+CMP-1409,Google Ads_Small_High-Value_Oct,Google Ads,1584.22,11195.86,6.067111891025237,Top Performer
+CMP-1410,Google Ads_Medium_New_Sep,Google Ads,5666.41,37124.32,5.551647339320663,Top Performer
+CMP-1411,Facebook_Large_Returning_Sep,Facebook,36760.89,387123.42,9.530850041987556,Top Performer
+CMP-1412,Facebook_Large_Returning_Nov,Facebook,12490.92,76501.18,5.124543268230042,Top Performer
+CMP-1413,Email_Small_High-Value_Nov,Email,167.94,138475.39,823.5527569370014,Top Performer
+CMP-1414,Email_Small_Low-Value_Aug,Email,163.51,46526.62,283.54907956699896,Top Performer
+CMP-1415,Instagram_Medium_New_Jul,Instagram,8964.63,143355.81,14.99126902058423,Top Performer
+CMP-1416,LinkedIn_Large_Low-Value_Sep,LinkedIn,11086.7,7593.82,-0.3150513678551779,Loss-Making
+CMP-1417,Google Ads_Medium_Low-Value_Aug,Google Ads,5982.5,9109.65,0.5227162557459255,Average
+CMP-1418,Email_Medium_High-Value_Jul,Email,820.49,1002616.11,1220.9723701690452,Top Performer
+CMP-1419,LinkedIn_Large_Returning_Oct,LinkedIn,41714.18,90851.41,1.1779502797370105,Top Performer
+CMP-1420,Google Ads_Medium_Low-Value_Nov,Google Ads,9320.72,18438.89,0.9782688461835568,Average
+CMP-1421,Instagram_Small_New_Aug,Instagram,975.14,20917.65,20.450919867916404,Top Performer
+CMP-1422,Instagram_Medium_High-Value_Nov,Instagram,3125.69,82880.06,25.51576451919416,Top Performer
+CMP-1423,Facebook_Small_Low-Value_Nov,Facebook,728.16,2834.82,2.893127883981543,Top Performer
+CMP-1424,Google Ads_Medium_Returning_Sep,Google Ads,8428.83,69011.13,7.187510010286125,Top Performer
+CMP-1425,Email_Large_Returning_Dec,Email,3671.68,2150570.34,584.7183469147637,Top Performer
+CMP-1426,Instagram_Medium_High-Value_Aug,Instagram,3297.87,84850.1,24.72875825911877,Top Performer
+CMP-1427,LinkedIn_Large_High-Value_Nov,LinkedIn,45610.32,202076.75,3.430504982205781,Top Performer
+CMP-1428,Email_Small_High-Value_Oct,Email,172.86,233253.67,1348.379092907555,Top Performer
+CMP-1429,Instagram_Large_New_Oct,Instagram,42865.48,632379.47,13.752651084275737,Top Performer
+CMP-1430,Google Ads_Large_Low-Value_Sep,Google Ads,23408.32,27553.89,0.1770981428825306,Average
+CMP-1431,LinkedIn_Large_Returning_Jul,LinkedIn,19594.96,38588.73,0.9693191514552724,Average
+CMP-1432,Facebook_Large_Low-Value_Aug,Facebook,36045.9,137954.14,2.827179790211925,Top Performer
+CMP-1433,Google Ads_Small_New_Aug,Google Ads,1968.66,7425.94,2.772078469618928,Top Performer
+CMP-1434,Instagram_Medium_Low-Value_Aug,Instagram,7490.62,19816.57,1.645517994505128,Top Performer
+CMP-1435,Email_Large_Low-Value_Jul,Email,4348.16,958682.18,219.47996853841627,Top Performer
+CMP-1436,LinkedIn_Medium_Returning_Nov,LinkedIn,4442.49,6688.34,0.5055385605820161,Average
+CMP-1437,LinkedIn_Small_Low-Value_Sep,LinkedIn,1907.46,2157.28,0.1309699810218826,Average
+CMP-1438,LinkedIn_Medium_High-Value_Nov,LinkedIn,4082.29,17164.79,3.2046963836474136,Top Performer
+CMP-1439,LinkedIn_Small_Low-Value_Aug,LinkedIn,1170.58,816.71,-0.3023031317808265,Loss-Making
+CMP-1440,LinkedIn_Medium_High-Value_Aug,LinkedIn,9814.4,34189.12,2.483567003586567,Top Performer
+CMP-1441,Facebook_Medium_Low-Value_Sep,Facebook,9344.61,42259.53,3.522342826506403,Top Performer
+CMP-1442,LinkedIn_Small_High-Value_Sep,LinkedIn,1630.94,8806.02,4.399352520632273,Top Performer
+CMP-1443,LinkedIn_Medium_Low-Value_Oct,LinkedIn,4438.01,2454.63,-0.4469075103481065,Loss-Making
+CMP-1444,Instagram_Large_New_Sep,Instagram,38147.44,179238.93,3.698583443607225,Top Performer
+CMP-1445,Instagram_Medium_Low-Value_Dec,Instagram,5750.14,17572.53,2.0560177665239454,Top Performer
+CMP-1446,Facebook_Medium_Returning_Nov,Facebook,7945.55,100664.76,11.66932559734694,Top Performer
+CMP-1447,Instagram_Large_Returning_Jul,Instagram,33728.86,251655.31,6.461127058548674,Top Performer
+CMP-1448,Facebook_Large_Returning_Jul,Facebook,41783.13,570612.49,12.656528125106952,Top Performer
+CMP-1449,Facebook_Small_Returning_Jul,Facebook,1282.17,7625.17,4.947081900216039,Top Performer
+CMP-1450,Instagram_Large_Low-Value_Jul,Instagram,13754.29,107623.3,6.824707782081082,Top Performer
+CMP-1451,Google Ads_Large_Returning_Oct,Google Ads,32870.89,133740.68,3.068666227169389,Top Performer
+CMP-1452,Email_Medium_Returning_Sep,Email,819.1,640340.61,780.7612135270418,Top Performer
+CMP-1453,Google Ads_Large_New_Dec,Google Ads,35252.3,171798.13,3.873387835687317,Top Performer
+CMP-1454,LinkedIn_Medium_New_Aug,LinkedIn,2833.8,8268.03,1.917647681558332,Top Performer
+CMP-1455,Google Ads_Small_Low-Value_Nov,Google Ads,1400.98,1703.85,0.2161843852160629,Average
+CMP-1456,Google Ads_Large_New_Sep,Google Ads,20175.66,47361.78,1.3474711607947398,Top Performer
+CMP-1457,Google Ads_Medium_High-Value_Sep,Google Ads,4214.51,39830.05,8.450695335875345,Top Performer
+CMP-1458,LinkedIn_Large_Low-Value_Aug,LinkedIn,34431.2,11252.17,-0.6731984363019587,Loss-Making
+CMP-1459,Instagram_Medium_Returning_Jul,Instagram,2061.31,12582.91,5.104326860103527,Top Performer
+CMP-1460,Email_Small_High-Value_Aug,Email,170.39,280780.4,1646.8690063970892,Top Performer
+CMP-1461,Instagram_Large_Returning_Aug,Instagram,25880.6,193894.19,6.491873836000711,Top Performer
+CMP-1462,Email_Medium_High-Value_Jul,Email,605.93,1346944.9,2221.93812816662,Top Performer
+CMP-1463,Facebook_Medium_Returning_Oct,Facebook,3051.91,23413.24,6.671667906327514,Top Performer
+CMP-1464,Google Ads_Small_High-Value_Oct,Google Ads,1861.42,25441.88,12.667995401360251,Top Performer
+CMP-1465,Instagram_Large_High-Value_Sep,Instagram,48202.42,868921.06,17.026502818738148,Top Performer
+CMP-1466,Google Ads_Medium_High-Value_Dec,Google Ads,4060.86,29923.99,6.36887999093788,Top Performer
+CMP-1467,Google Ads_Medium_New_Oct,Google Ads,5070.71,17643.8,2.4795521731670718,Top Performer
+CMP-1468,Email_Small_High-Value_Dec,Email,162.68,184366.86,1132.309933611999,Top Performer
+CMP-1469,Instagram_Small_Returning_Aug,Instagram,1502.86,9641.48,5.415421263457675,Top Performer
+CMP-1470,Facebook_Medium_Low-Value_Dec,Facebook,7088.77,41385.44,4.838169386226383,Top Performer
+CMP-1471,LinkedIn_Large_Low-Value_Nov,LinkedIn,14822.34,6988.06,-0.5285454253511929,Loss-Making
+CMP-1472,Facebook_Medium_New_Nov,Facebook,2093.65,19928.2,8.518400878847944,Top Performer
+CMP-1473,Instagram_Small_New_Nov,Instagram,565.61,6760.45,10.952493767790529,Top Performer
+CMP-1474,LinkedIn_Large_Returning_Nov,LinkedIn,36091.67,100875.13,1.7949698642373717,Top Performer
+CMP-1475,Facebook_Medium_High-Value_Nov,Facebook,4203.05,114107.23,26.14867298747338,Top Performer
+CMP-1476,Facebook_Large_Low-Value_Jul,Facebook,42896.89,164446.12,2.8335207983609068,Top Performer
+CMP-1477,Google Ads_Large_Low-Value_Aug,Google Ads,33287.95,69352.57,1.0834136677085855,Top Performer
+CMP-1478,Email_Medium_New_Nov,Email,499.64,300956.01,601.3457089104155,Top Performer
+CMP-1479,Google Ads_Small_Low-Value_Sep,Google Ads,1018.82,1407.85,0.3818437015370721,Average
+CMP-1480,LinkedIn_Medium_New_Jul,LinkedIn,4724.83,8122.13,0.719031160909493,Average
+CMP-1481,Google Ads_Medium_New_Jul,Google Ads,6846.23,31386.65,3.5845158576325957,Top Performer
+CMP-1482,Instagram_Small_Low-Value_Aug,Instagram,1532.41,4430.62,1.891275833491037,Top Performer
+CMP-1483,Instagram_Medium_Low-Value_Oct,Instagram,9712.14,23286.75,1.397695049700684,Top Performer
+CMP-1484,Google Ads_Medium_Returning_Dec,Google Ads,3280.2,10891.58,2.3204011950490826,Top Performer
+CMP-1485,Facebook_Small_Low-Value_Nov,Facebook,1850.12,7977.51,3.3118878775430787,Top Performer
+CMP-1486,Google Ads_Medium_New_Sep,Google Ads,6823.54,59029.87,7.650915800303069,Top Performer
+CMP-1487,Email_Small_Low-Value_Aug,Email,108.42,14528.37,133.00083010514666,Top Performer
+CMP-1488,Instagram_Small_Returning_Sep,Instagram,1330.57,19090.96,13.34795613909828,Top Performer
+CMP-1489,Google Ads_Small_Low-Value_Dec,Google Ads,953.5,877.93,-0.079255374934452,Loss-Making
+CMP-1490,Facebook_Large_New_Jul,Facebook,20809.91,256178.87,11.310426618856113,Top Performer
+CMP-1491,Email_Large_New_Sep,Email,1556.79,861198.75,552.1887730522421,Top Performer
+CMP-1492,Email_Large_Low-Value_Aug,Email,4975.39,1432486.16,286.914346413045,Top Performer
+CMP-1493,Google Ads_Medium_Returning_Nov,Google Ads,3610.5,13976.53,2.8710787979504224,Top Performer
+CMP-1494,LinkedIn_Large_High-Value_Nov,LinkedIn,19109.99,132024.59,5.90866871201921,Top Performer
+CMP-1495,Facebook_Large_High-Value_Aug,Facebook,44798.77,974794.65,20.75940656406415,Top Performer
+CMP-1496,Facebook_Medium_Low-Value_Sep,Facebook,4206.14,16567.45,2.938872695630673,Top Performer
+CMP-1497,LinkedIn_Large_Returning_Dec,LinkedIn,49239.5,101538.27,1.0621304034362655,Top Performer
+CMP-1498,LinkedIn_Medium_Low-Value_Jul,LinkedIn,4286.27,2791.72,-0.3486831207553422,Loss-Making
+CMP-1499,LinkedIn_Medium_High-Value_Dec,LinkedIn,5938.6,35259.98,4.937422961640792,Top Performer
